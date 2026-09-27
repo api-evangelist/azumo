@@ -1,0 +1,19 @@
+generated: '2026-09-27'
+method: derived
+generator: derive-mcp-candidate.py
+source:
+- openapi/ai-college-journey-openapi.json
+status: candidate
+deployment:
+  mode: none
+  auth: unknown
+  verified: probed
+note: No MCP server was found. The pre-flight posted tools/list to /mcp on api.azumo.com, azumo.com, ai-college-journey.azumo.com, ai-roadmap-tool.azumo.com;
+  verdict absent. Candidate tools below are derived from the 1 operation(s) in the provider's own OpenAPI (1 listed); they describe what a server
+  WOULD expose, not one that exists.
+tools:
+- name: playground_style_integration_playground_style_integration_ge
+  operationId: playground_style_integration_playground_style_integration_get
+  method: GET
+  path: /playground-style/integration
+  description: Playground Style Integration

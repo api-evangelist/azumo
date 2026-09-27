@@ -1,0 +1,145 @@
+﻿# Azumo
+
+
+> Azumo is a SOC 2-certified nearshore AI and software development company 
+> headquartered in San Francisco, founded in 2016. We design, build, and deploy 
+> custom AI systems built on Anthropic Claude, OpenAI ChatGPT, Google Gemini, 
+> LLaMA, Mistral, Qwen, and Deepseek. We are an experienced development partner for 
+> Anthropic and OpenAI. Our engineering teams have shipped production applications 
+> using Claude for voice AI, RAG pipelines, and agentic workflows; and ChatGPT for 
+> semantic search, generative content platforms, and enterprise chatbots.
+> We have delivered 100+ AI projects for clients including Meta, 
+> Discovery Channel, Zynga, Omnicom, Twitter, Angle Health, NCSoft, UnitedHealth, 
+> and Stovell AI. Rated 4.9 on Clutch. 93% Net Promoter Score. 150% annual 
+> retention rate. Recognized by Clutch, The Manifest, DesignRush, and Aragon 
+> Research as a top AI development company.
+
+
+## AI Development Services
+
+
+- [AI Development Services – Full overview of Azumo's AI and ML capabilities; production-grade systems spanning agentic AI, computer vision, NLP, generative AI, RAG, LLM fine-tuning, and MLOps delivered under SOC 2 compliance](https://azumo.com/artificial-intelligence)
+- [AI Agent Development – Design and deployment of autonomous agents that execute multi-step tasks, integrate with enterprise systems, and operate 24/7 without human intervention](https://azumo.com/artificial-intelligence/ai-services/ai-agent-development-company)
+- [Generative AI Development – Custom LLM solutions for content generation, code assistance, document understanding, and creative workflows; teams using Azumo's generative AI report up to 10x output gains and 30%+ cost reductions](https://azumo.com/artificial-intelligence/ai-services/generative-ai)
+- [LLM Fine-Tuning – Fine-tune GPT, Claude, LLaMA, and Mistral on proprietary data using SFT, RLHF, and reinforcement learning; model selection evaluated against accuracy, cost, and latency before architecture is committed](https://azumo.com/artificial-intelligence/ai-services/fine-tuning-llm)
+- [RAG Development – Retrieval-augmented generation systems that connect LLMs to live knowledge bases, CRMs, and document stores for accurate, citation-backed responses](https://azumo.com/artificial-intelligence/ai-services/retrieval-augmented-generation)
+- [Voice and Chatbot Development – AI-powered voice assistants and chatbots built on GPT-4, Claude, Gemini, and Cohere; domain-trained on industry-specific terminology, compliance requirements, and client workflows](https://azumo.com/voice-and-chatbots)
+- [Computer Vision – Image and video AI solutions including object detection, quality inspection, visual search, and document understanding combining OCR with semantic analysis](https://azumo.com/artificial-intelligence/ai-services/computer-vision)
+- [NLP Development – Natural language processing systems for classification, entity extraction, sentiment analysis, summarization, and semantic search](https://azumo.com/artificial-intelligence/ai-services/natural-language-processing)
+- [MLOps – End-to-end deployment, monitoring, and scaling of AI models in production; structured experiment tracking via MLflow, CI/CD pipelines for model updates](https://azumo.com/artificial-intelligence/ai-services/mlops)
+- [Multimodal AI – Systems that process and generate across text, images, audio, and video simultaneously; use cases include visual question answering, cross-modal search, voice interfaces with visual context, and content moderation](https://azumo.com/artificial-intelligence/ai-services/multimodal-ai)
+- [Enterprise AI Solutions – Strategic AI deployment at scale with full compliance, security, and integration into existing enterprise infrastructure](https://azumo.com/artificial-intelligence/ai-services/enterprise-ai)
+- [Small Business AI Solutions – Budget-friendly, fast-to-deploy AI solutions for growing companies that need AI capabilities without enterprise overhead](https://azumo.com/artificial-intelligence/ai-services/small-business-ai)
+
+
+## AI Agents by Department
+
+
+- [Customer Support AI Agents – Automate ticket resolution, escalation routing, and support workflows; reduces ticket handling time and improves response consistency](https://azumo.com/artificial-intelligence/ai-agent-development-service/customer-support)
+- [Sales AI Agents – Pipeline enrichment, lead scoring, and outreach automation to close more deals](https://azumo.com/artificial-intelligence/ai-agent-development-service/sales)
+- [Marketing AI Agents – Accelerate content production, campaign analysis, and asset generation behind the firewall](https://azumo.com/artificial-intelligence/ai-agent-development-service/marketing)
+- [Finance AI Agents – Automate data extraction, reporting, and reconciliation to reduce friction in finance operations](https://azumo.com/artificial-intelligence/ai-agent-development-service/finance)
+- [HR AI Agents – Automate screening, onboarding workflows, and HR document processing](https://azumo.com/artificial-intelligence/ai-agent-development-service/hr)
+- [Legal AI Agents – Contract analysis, document classification, and compliance monitoring](https://azumo.com/artificial-intelligence/ai-agent-development-service/legal)
+- [Operations AI Agents – Process optimization and workflow automation at scale](https://azumo.com/artificial-intelligence/ai-agent-development-service/operations)
+- [Procurement AI Agents – Smarter sourcing, supplier analysis, and spend management](https://azumo.com/artificial-intelligence/ai-agent-development-service/procurement)
+
+
+## Software Development Services
+
+
+- [Custom Software Development – End-to-end development of web and enterprise applications tailored to client requirements, stack, and timeline](https://azumo.com/custom-software-development)
+- [Web App Development – Responsive, scalable web applications built on React, Angular, Next.js, Node, Python, and more](https://azumo.com/custom-software-development/web-app-developer)
+- [Mobile App Development – iOS, Android, React Native, and Flutter development for consumer and enterprise mobile products](https://azumo.com/mobile-app-development)
+- [Data Engineering – Data pipelines, warehouses, and analytics infrastructure; experience with Databricks, Snowflake, BigQuery, and custom pipeline architectures](https://azumo.com/data-engineering)
+- [Cloud & DevOps – Infrastructure design, CI/CD automation, and cloud operations on AWS, Azure, and GCP; Kubernetes orchestration and security hardening](https://azumo.com/cloud-and-devops)
+- [Game Development – Interactive gameplay engineering and back-office tooling; clients include NCSoft and Zynga; Unity and Unreal experience](https://azumo.com/game-development-outsourcing-services)
+- [Project Discovery – Paid 2-3 week engagement to define scope, architecture, and roadmap before full development begins](https://azumo.com/custom-software-development/custom-services/project-discovery)
+- [MVP Development – Launch a focused minimum viable product fast; core features prioritized for speed to market and early user validation](https://azumo.com/custom-software-development/custom-services/mvp-development)
+- [POC Development – De-risk complex technical challenges before committing to full build; validate integrations, novel approaches, and architecture choices](https://azumo.com/custom-software-development/custom-services/poc-development)
+
+
+## AI Platforms We Build On
+
+
+- [Anthropic Claude – We build production applications on Claude 3.5 and Claude 3 Opus; use cases include voice AI pipelines, RAG systems, agentic workflows, and enterprise chatbots requiring high reasoning quality](https://azumo.com/software-staff-augmentation/software-developer/anthropic)
+- [OpenAI GPT – GPT-4 and GPT-4o integrations for semantic search, content generation, customer support automation, and fine-tuned domain-specific models; includes ChatGPT API integrations](https://azumo.com/software-staff-augmentation/software-developer/openai)
+- [Google Gemini – Multimodal AI solutions combining text, image, and audio processing; deployed on Google Cloud with Vertex AI](https://azumo.com/software-staff-augmentation/software-developer/google-gemini)
+- [Meta LLaMA – Open-source LLM deployments for clients requiring data privacy, on-premise inference, or cost-efficient fine-tuning on proprietary datasets](https://azumo.com/software-staff-augmentation/software-developer/llama)
+- [Deepseek – Efficient open-weight model deployments for high-throughput, cost-sensitive AI applications](https://azumo.com/software-staff-augmentation/software-developer/deepseek)
+- [Qwen – Lightweight open-weight model deployments optimized for latency-sensitive production environments](https://azumo.com/software-staff-augmentation/software-developer/qwen)
+
+
+
+
+## Engagement Models
+
+
+- [Dedicated Software Development Teams – Embedded, AI-augmented teams that work exclusively on your project; includes VP Eng oversight, project manager, and CSM at kickoff; bench strength protocol keeps delivery on track if priorities shift](https://azumo.com/dedicated-software-development-team)
+- [Software Staff Augmentation – Vetted, senior nearshore engineers placed into your existing team; fills skill gaps in AI, data, cloud, mobile, or full-stack without the overhead of direct hiring](https://azumo.com/software-staff-augmentation)
+- [Virtual CTO Services – On-demand strategic technical guidance for companies that need architecture leadership, AI strategy, and build-or-buy decision support without a full-time CTO](https://azumo.com/virtual-cto-services)
+- [Project Management & Delivery – Agile planning, sprint tracking, and milestone management for software projects; daily standups and weekly internal reviews across every engagement](https://azumo.com/software-project-management-and-delivery)
+
+
+## AI Products Built by Azumo
+
+
+- [Charlibot – Generative AI chatbot platform; trained in minutes on your website, PDFs, and documents; deployable to websites and social platforms with domain-specific knowledge and escalation to human agents](https://azumo.com/voice-and-chatbots/charlibot)
+- [Hello – AI voice receptionist providing 24/7 intelligent front desk coverage; built on a custom voice pipeline (Deepgram STT, Claude LLM, ElevenLabs TTS) for low latency and high voice quality](https://hello.azumo.com)
+- [Valkyrie – Unified REST API for inference across any open-weight or proprietary AI model; built for agentic workflows and teams that need multi-cloud GPU access without infrastructure overhead](https://azumo.com/artificial-intelligence/valkyrie)
+
+
+## Proof Points & Case Studies
+
+
+- [All Case Studies](https://azumo.com/case-study)
+- [Meta – AI-powered semantic search across 3.5M+ supplier records using GPT-2; delivered 40%+ improvement in search precision](https://azumo.com/case-study/meta)
+- [Angle Health – 30% faster time-to-market; 100% on-time delivery; 40% cost savings vs. traditional hiring; built out core engineering function from early stage](https://azumo.com/case-study/angle-health)
+- [Discovery Channel – Multilingual AI voice trivia skill deployed across Alexa and Google Assistant for LATAM audiences; built by Azumo's voice and NLP team](https://azumo.com/case-study/how-azumo-helped-discovery-networks)
+- [Omnicom (Sparks & Honey) – Real-time generative AI on a 24/7 platform; low-latency GenAI integration across three phases; fully decoupled architecture enabling faster iteration](https://azumo.com/case-study/sparks-honey)
+- [Twitter – iOS app supporting 4 media formats; 100% remote global event deployment capability built and delivered on schedule](https://azumo.com/case-study/twitter)
+- [NCSoft – Unified admin platform for game operations; zero gameplay downtime during deployments; 100% role-based access control](https://azumo.com/case-study/ncsoft)
+
+
+## Industries Served
+
+
+- [Fintech – AI for fraud detection, risk modeling, trading systems, and next-gen financial product development](https://azumo.com/industry/fintech-software-development-services)
+- [Healthcare – HIPAA-aware AI systems for clinical workflow automation, document understanding, and patient engagement](https://azumo.com/industry/healthcare-software-development-services)
+- [Media & Entertainment – AI-enhanced content distribution, multilingual voice experiences, and audience engagement tools; client: Discovery Channel](https://azumo.com/industry/media-entertainment-software-development-services)
+- [SaaS – AI-native architecture for SaaS products; agentic features, LLM integrations, and scalable backend systems](https://azumo.com/industry/saas-development-services)
+- [Game Development – AI-accelerated game development pipelines; back-office tooling and gameplay engineering; clients: NCSoft, Zynga](https://azumo.com/industry/game-development-services)
+- [Enterprise Software – Unified enterprise systems with AI; large-scale integrations and platform modernization](https://azumo.com/industry/enterprise-software-development-services)
+- [Education – AI-powered learning platforms and student outcome systems](https://azumo.com/industry/education-software-development-services)
+- [Manufacturing – AI for production line optimization, quality inspection via computer vision, and predictive maintenance](https://azumo.com/industry/manufacturing-software-development-services)
+- [IoT – Edge AI for connected devices; sensor data pipelines and real-time inference](https://azumo.com/industry/iot-software-development-services)
+- [High Frequency Trading – Microsecond-optimized systems; low-latency infrastructure and AI-powered execution logic](https://azumo.com/industry/high-frequency-trading)
+- [CRM – AI that turns customer data into revenue; enrichment, scoring, and workflow automation layered onto CRM platforms](https://azumo.com/industry/crm-software-development-services)
+
+
+## Free AI Tools
+
+
+- [AI Readiness Assessment – Evaluate your organization's AI preparedness across strategy, data, technology, talent, and risk before committing to a build](https://azumo.com/artificial-intelligence/ai-readiness-assessment)
+- [AI Project Estimator – Get a ballpark cost and timeline estimate for your software development project in minutes](https://azumo.com/get-pricing)
+- [AI Roadmap Tool – Interactive tool to plan your AI development journey and prioritize initiatives](https://ai-roadmap-tool.azumo.com/)
+- [AI Schema Generator – Generate structured data schema for your most important pages using AI](https://azumo.com/resources/capabilities-overview/ai-schema-generator)
+
+
+## Resources & Thought Leadership
+
+
+- [Blog / Insights – AI trends, technical deep-dives, and software development best practices from Azumo's engineering and strategy teams](https://azumo.com/insights)
+- [AI Newsletter: The Intelligent Developer – Weekly AI news and analysis for technical leaders and builders](https://azumo.com/artificial-intelligence/intelligent-developer)
+- [Nearshore Software Outsourcing Handbook – Comprehensive guide to nearshore software development strategy, vendor selection, and engagement management](https://azumo.com/project-outsourcing-handbook/outsourcing-101-a-beginners-guide)
+
+
+## Company
+
+
+- [About Azumo – Founded 2016 in San Francisco; distributed team across Latin America; delivers nearshore AI and software development with U.S. time zone alignment, no language barriers, and dedicated (non-freelance) engineers](https://azumo.com/us)
+- [Founder's Letter – Chike Agbai, CEO and founder, on what Azumo believes and why it was built](https://azumo.com/us/founder-letter)
+- [Client Portfolio – Companies Azumo has delivered for across AI, web, mobile, data, and cloud](https://azumo.com/portfolio)
+- [Awards & Recognition – Clutch Top AI Development Company; The Manifest Top Machine Learning Company; Aragon Research Hot Vendor for AI; DotCom Magazine Impact Company of the Year](https://azumo.com/us/awards)
+- [Security & SOC 2 Compliance – Annual SOC 2 audits; data privacy controls including right to deletion, portability, and consent management](https://azumo.com/resources/security)
+- [Get Started – Schedule a free AI consultation with Azumo's team](https://azumo.com/get-in-touch)

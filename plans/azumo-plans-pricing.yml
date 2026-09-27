@@ -1,0 +1,23 @@
+generated: '2026-09-27'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://azumo.com/get-pricing
+sources:
+- https://azumo.com/get-pricing
+name: Azumo pricing
+audience: business-product
+pricing_basis: per-call
+plans:
+- name: Starter
+  price_text: $899 per Delivery Unit
+  price: 899
+  description: Best for MVPs, proofs of concept, single-feature builds
+- name: Growth
+  price_text: $699 per Delivery Unit
+  price: 699
+  description: Best for full product builds, multi-feature systems
+- name: Platform
+  price_text: $499 per Delivery Unit
+  price: 499
+  description: Best for Enterprise programs, multi-phase platforms
+docs: https://azumo.com/get-pricing

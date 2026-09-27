@@ -1,0 +1,99 @@
+generated: '2026-09-27'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 7
+  own: 7
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - other
+  - website
+hosts:
+- host: ai-college-journey.azumo.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: azumo.com
+  role: other
+  relation: own
+- host: ai-roadmap-tool.azumo.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: azumo.com
+  role: other
+  relation: own
+- host: ai-srs-generator.azumo.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: azumo.com
+  role: other
+  relation: own
+- host: api.azumo.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: azumo.com
+  role: api
+  relation: own
+- host: azumo.com
+  found_by:
+  - pointer
+  - apis[]
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Security
+  - PrivacyPolicy
+  - Documentation
+  - GettingStarted
+  - Website
+  serves:
+  - docs
+  - cdn
+  vendor: cloudflare
+  registrable_domain: azumo.com
+  role: website
+  relation: own
+- host: charlibot.azumo.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: azumo.com
+  role: other
+  relation: own
+- host: hello.azumo.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: azumo.com
+  role: other
+  relation: own
