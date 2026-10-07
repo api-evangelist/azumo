@@ -30,6 +30,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: Pricing
+  url: https://azumo.com/get-pricing
 - url: https://azumo.com/insights
   type: Blog
 - url: https://azumo.com/insights/rss.xml
